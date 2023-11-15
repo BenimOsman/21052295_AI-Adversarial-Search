@@ -1,1 +1,1 @@
-# 21052295_AI-Adversarial-Search
+# 21052295_AI Adversarial Search
