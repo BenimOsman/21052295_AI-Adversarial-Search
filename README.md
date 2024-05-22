@@ -1,8 +1,6 @@
-# 21052295_AI Adversarial Search
+# ColorFlip AI (Adversarial Search)
 
     Adversarial Search 
-
-In this assignment you need to implement Mini-Max Algorithm to find the Utility for the following Game. 
 
 Rules of the Game are as follows : 
 1. The Game consists of a board of length N. 
